@@ -1,4 +1,4 @@
-# EIPs MCP Server
+# EIPs MCP
 
 An MCP server for providing semantically related Ethereum Improvement Proposals (EIPs) to AI agents.
 
