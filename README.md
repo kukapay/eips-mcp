@@ -2,6 +2,10 @@
 
 An MCP server for providing semantically related Ethereum Improvement Proposals (EIPs) to AI agents.
 
+<a href="https://glama.ai/mcp/servers/@kukapay/eips-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kukapay/eips-mcp/badge" alt="eips-mcp MCP server" />
+</a>
+
 ![GitHub License](https://img.shields.io/github/license/kukapay/eips-mcp) 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
@@ -86,4 +90,3 @@ When searching for "CREATE2" using the `search` tool, the output might look like
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
